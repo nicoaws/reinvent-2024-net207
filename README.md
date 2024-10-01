@@ -26,6 +26,10 @@ network's reliability, performance, and cost-effectiveness.
 
 ## Opensource tooling
 
+## Amazon VPC Traffic Mirroring
+- [Amazon VPC Traffic Mirroring - AWS Documentation](https://docs.aws.amazon.com/vpc/latest/mirroring/what-is-traffic-mirroring.html)
+- [New – VPC Traffic Mirroring – Capture & Inspect Network Traffic - Blog](https://aws.amazon.com/blogs/aws/new-vpc-traffic-mirroring/)
+- [Using VPC Traffic Mirroring to monitor and secure your AWS infrastructure - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-traffic-mirroring-to-monitor-and-secure-your-aws-infrastructure/)
 
 ## Amazon Cloudwatch Internet Monitor
 - [Introducing Amazon CloudWatch Internet Monitor - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-cloudwatch-internet-monitor/)
@@ -39,7 +43,9 @@ network's reliability, performance, and cost-effectiveness.
 - [Monitoring AWS Global Network Performance - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/monitoring-aws-global-network-performance/)
 - [Infrastructure Performance - AWS Documentation](https://docs.aws.amazon.com/network-manager/latest/infrastructure-performance/what-is-nmip.html)
 
-## Network Access Analyzer
+## Amazon VPC Network Access Analyzer
+- [Amazon VPC Network Access Analyzer - AWS Documentation](https://docs.aws.amazon.com/vpc/latest/network-access-analyzer/what-is-network-access-analyzer.html)
+- [New – Amazon VPC Network Access Analyzer - Blog](https://aws.amazon.com/blogs/aws/new-amazon-vpc-network-access-analyzer/)
 
 ## Amazon VPC Reachability Analyzer
 - [Amazon VPC Reachability Analyzer - AWS Documentation](https://docs.aws.amazon.com/vpc/latest/reachability/what-is-reachability-analyzer.html)
@@ -51,7 +57,11 @@ network's reliability, performance, and cost-effectiveness.
 - [Amazon Route53 Resolver Query Logs - AWS Documentation](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver-query-logs.html)
 
 ## Amazon VPC and AWS Transit Gateway Flow Logs
-
+- [Amazon VPC Flow Logs - AWS Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html)
+- [AWS Transit Gateway Flow Logs - AWS Documentation](https://docs.aws.amazon.com/vpc/latest/tgw/tgw-flow-logs.html)
+- [VPC Flow Logs – Log and View Network Traffic Flows - Blog](https://aws.amazon.com/blogs/aws/vpc-flow-logs-log-and-view-network-traffic-flows/)
+- [Introducing VPC Flow Logs for AWS Transit Gateway - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-vpc-flow-logs-for-aws-transit-gateway/)
+- [Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights - Blog](https://aws.amazon.com/blogs/mt/improve-security-by-analyzing-vpc-flow-logs-with-amazon-cloudwatch-contributor-insights/)
 
 ## EC2 Network Performance 
 - [Amazon EC2 instance-level network performance metrics uncover new insights - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-ec2-instance-level-network-performance-metrics-uncover-new-insights/)
