@@ -27,13 +27,41 @@ network's reliability, performance, and cost-effectiveness.
 ## Opensource tooling
 
 
-
-
-
-- [Amazon EC2 instance-level network performance metrics uncover new insights - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-ec2-instance-level-network-performance-metrics-uncover-new-insights/)
+## Amazon Cloudwatch Internet Monitor
 - [Introducing Amazon CloudWatch Internet Monitor - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-cloudwatch-internet-monitor/)
-- [Monitor hybrid connectivity with Amazon CloudWatch Network Monitor - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/monitor-hybrid-connectivity-with-amazon-cloudwatch-network-monitor/)
+- [Amazon Cloudwatch Internet Monitor - AWS Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-InternetMonitor.html)
 
+## Amazon Cloudwatch Network Monitor
+- [Monitor hybrid connectivity with Amazon CloudWatch Network Monitor - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/monitor-hybrid-connectivity-with-amazon-cloudwatch-network-monitor/)
+- [Amazon Cloudwatch Network Monitor - AWS Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/what-is-network-monitor.html)
+
+## Network Manager Infrastructure Performance
+- [Monitoring AWS Global Network Performance - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/monitoring-aws-global-network-performance/)
+- [Infrastructure Performance - AWS Documentation](https://docs.aws.amazon.com/network-manager/latest/infrastructure-performance/what-is-nmip.html)
+
+## Network Access Analyzer
+
+## Amazon VPC Reachability Analyzer
+- [Amazon VPC Reachability Analyzer - AWS Documentation](https://docs.aws.amazon.com/vpc/latest/reachability/what-is-reachability-analyzer.html)
+- [New – VPC Reachability Analyzer - Blog](https://aws.amazon.com/blogs/aws/new-vpc-insights-analyzes-reachability-and-visibility-in-vpcs/)
+- [Visualize and diagnose network reachability across AWS accounts using Reachability Analyzer - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/visualize-and-diagnose-network-reachability-across-aws-accounts-using-reachability-analyzer/)
+
+## Route53 Resolver Query Logs
+- [Log your VPC DNS queries with Route 53 Resolver Query Logs - Blog](https://aws.amazon.com/blogs/aws/log-your-vpc-dns-queries-with-route-53-resolver-query-logs/)
+- [Amazon Route53 Resolver Query Logs - AWS Documentation](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver-query-logs.html)
+
+## Amazon VPC and AWS Transit Gateway Flow Logs
+
+
+## EC2 Network Performance 
+- [Amazon EC2 instance-level network performance metrics uncover new insights - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-ec2-instance-level-network-performance-metrics-uncover-new-insights/)
+
+
+
+
+
+
+## AWS re:Invent past sessions
 - [AWS re:Invent 2023 - Must-have network diagnostics and troubleshooting tools (NET204)](https://www.youtube.com/watch?v=bFgzkNU5P24)
 - [AWS re:Inforce 2022 - Validate effective network access controls on AWS (NIS202)](https://www.youtube.com/watch?v=aN2P2zeQek0)
 - [AWS re:Invent 2022 - [NEW] Visibility into how internet issues impact app performance (COP345)](https://youtu.be/Kuc_SG_aBgQ)
