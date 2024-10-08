@@ -15,16 +15,14 @@ identify impairments, and resolve problems efficiently. Walk away
 empowered to maintain a bird's eye view and optimize your cloud
 network's reliability, performance, and cost-effectiveness.
 
-## Scenario 1
+<!-- ## Scenario 1
 
 
 ## Scenario 2
 
 
-## Scenario 3
+## Scenario 3 -->
 
-
-## Opensource tooling
 
 ## Amazon VPC Traffic Mirroring
 - [Amazon VPC Traffic Mirroring - AWS Documentation](https://docs.aws.amazon.com/vpc/latest/mirroring/what-is-traffic-mirroring.html)
@@ -64,17 +62,26 @@ network's reliability, performance, and cost-effectiveness.
 - [Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights - Blog](https://aws.amazon.com/blogs/mt/improve-security-by-analyzing-vpc-flow-logs-with-amazon-cloudwatch-contributor-insights/)
 
 ## EC2 Network Performance 
+- [Amazon CloudWatch Agent - Network Performance - AWS Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Agent-network-performance.html)
+- [Monitoring Network Performance ENA - AWS Documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-network-performance-ena.html#network-performance-metrics)
 - [Amazon EC2 instance-level network performance metrics uncover new insights - Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-ec2-instance-level-network-performance-metrics-uncover-new-insights/)
 
-
-
-
-
-
-## AWS re:Invent past sessions
+## AWS re:Invent past sessions
 - [AWS re:Invent 2023 - Must-have network diagnostics and troubleshooting tools (NET204)](https://www.youtube.com/watch?v=bFgzkNU5P24)
 - [AWS re:Inforce 2022 - Validate effective network access controls on AWS (NIS202)](https://www.youtube.com/watch?v=aN2P2zeQek0)
 - [AWS re:Invent 2022 - [NEW] Visibility into how internet issues impact app performance (COP345)](https://youtu.be/Kuc_SG_aBgQ)
 - [AWS re:Invent 2022 - Observing and diagnosing your network with AWS (NET205)](https://youtu.be/80z1U1MCRiU)
 - [AWS re:Invent 2022 - How Amazon uses better metrics for improved website performance (AMZ302)](https://www.youtube.com/watch?v=_uaaCiyJCFA)
 - [AWS re:Invent 2020: Monitoring and troubleshooting network traffic](https://youtu.be/Ed09ReWRQXc)
+
+
+## Opensource tooling
+https://iperf.fr/iperf-doc.php
+
+https://termshark.io/
+
+https://www.wireshark.org/
+
+https://netcat.sourceforge.net/
+
+https://man.archlinux.org/man/mtr.8.en
